@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c48f0101f97e1db4cb78af77184ece2a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267769
+  packageName: Dinosaurus Mini Pack with Babies
+  packageVersion: 1.0
+  assetPath: Assets/GrigoriyArx/DinoGK/Scripts/CamController.cs
+  uploadId: 619732

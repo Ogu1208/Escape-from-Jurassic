@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5e70c267b0a71cb418d350088df97c80
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267769
+  packageName: Dinosaurus Mini Pack with Babies
+  packageVersion: 1.0
+  assetPath: Assets/GrigoriyArx/DinoGK/Scripts/MassUIDynoController.cs
+  uploadId: 619732
